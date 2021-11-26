@@ -1,1 +1,1 @@
-web: node . --scan
+web: node . --server
