@@ -1,9 +1,9 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/KihEAYjKr04LI4uUrbiiip']
+global.linkGC = ['https://chat.whatsapp.com/']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '62895368900456': { // put your number here
-    name: 'benniismael',
+  '6281231297278': { // put your number here
+    name: 'WhatsappBot',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
@@ -46,8 +46,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Benniganteng \'ig : Beni_230'
-global.author = 'Benniismael'
+global.packname = 'Alan kontol \'Hahai'
+global.author = 'WhatsappBot'
 
 global.wait = '_*tunggu..*_'
 global.eror = '_*Server Error*_'
