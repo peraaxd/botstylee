@@ -82,7 +82,7 @@ let handler  = async (m, { conn, usedPrefix: _p, DevMode }) => {
           if (menu.help) groups[tag].push(menu)
     }
     conn.menu = conn.menu ? conn.menu : {}
-    let before = conn.menu.before || `*${conn.user.name}*`
+    let before = conn.menu.before || `*WhatsApp Bot*\n`
     let header = conn.menu.header || '*%category*'
     let body   = conn.menu.body   || '%cmd%islimit'
     let footer = conn.menu.footer || '\n'
