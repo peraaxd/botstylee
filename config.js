@@ -3,7 +3,7 @@ global.linkGC = ['https://chat.whatsapp.com/']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
   '6281231297278': { // put your number here
-    name: 'WhatsappBot',
+    name: '1',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
@@ -46,8 +46,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Alan kontol \'Hahai'
-global.author = 'WhatsappBot'
+global.packname = 'Alan  \'Kontol'
+global.author = '1'
 
 global.wait = '_*tunggu..*_'
 global.eror = '_*Server Error*_'
